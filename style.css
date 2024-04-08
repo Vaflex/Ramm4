@@ -27,4 +27,10 @@
     display: table;
     clear: both;
   }
+
+  .sticky {
+    position: sticky;
+    position: -webkit-sticky;
+    text-align: center;
+  }
   

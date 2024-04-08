@@ -1,4 +1,4 @@
-Název projektu: Ramm4
+Název projektu: Ramm4Liebe
 Použité technologie: HTML, CSS, JAVA, PHP
 
 Uložené ve stromové struktuře.

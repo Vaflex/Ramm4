@@ -3,11 +3,11 @@
 <head>
     <title>RammLiebe</title>
     <link rel="stylesheet" href="css/style.css">
-    <script src="script.js"></script>
+    <script src="/java/gal.js"></script>
 </head>
 <body class="gif3">
     <header>
-        <div class="header-content rammfont">
+        <div class="header-content rammfont" id="shake">
             <a href="index.html"><h1>RAMMLIEBE</h1></a>
         </div>
     </header>
@@ -22,8 +22,9 @@
         </ul>
     </nav>
     <div class="sloupec">
-        <img src="/obrazky/lindemann.jpg" width="30%" height="30%">
-        <img src="/obrazky/kruspe.jpg" width="30%" height="30%">
+        <img src="/obrazky/lindemann.jpg" width="30%" height="30%" class="picture" alt="Image 1" onclick="change(this)">
+        <img src="/obrazky/kruspe.jpg" width="30%" height="30%" class="picture" onclick="change(this)">
     </div>
+
 </body>
 </html>

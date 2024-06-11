@@ -19,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <header>
         <div class="header-content rammfont">
-            <a href="index.html"><h1>RAMMLIEBE</h1></a>
+            <a href="index.php"><h1>RAMMLIEBE</h1></a>
         </div>
     </header>
     <nav class="menu">

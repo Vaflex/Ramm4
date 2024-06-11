@@ -40,7 +40,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque vero eligendi temporibus qui pariatur! Saepe cupiditate laboriosam dicta nesciunt laborum dignissimos repellendus quod fugiat quo unde non ipsa, aut ab. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium tempora neque consectetur distinctio provident. In a unde, voluptatum doloribus, odio pariatur expedita minus nulla optio dolore ipsa cupiditate, voluptatem quae.</p>
     </div>
     <div class="rammfont vylajnovat nadpis">
-        <a><h1>RAMMSTEIN</h1></a>
+        <?php
+echo "Rammstein";
+?>
     </div>
 </body>
 </html>

@@ -9,6 +9,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MHZ86SRX');</script>
 <!-- End Google Tag Manager -->
     <title>RammLiebe</title>
+    <link rel="icon" type="image/x-icon" href="/obrazky/favicon.ico">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body class="gif3">
